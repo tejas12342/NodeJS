@@ -1,0 +1,26 @@
+{
+  "name": "bufferandstream",
+  "version": "1.0.0",
+  "description": "Read and Write with buffer and stream",
+  "main": "ReadBufferAndStream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/tejas12342/NodeJS.git"
+  },
+  "keywords": [
+    "buffer",
+    "stream"
+  ],
+  "author": "Tejas Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/tejas12342/NodeJS/issues"
+  },
+  "homepage": "https://gitlab.com/tejas12342/NodeJS#README",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}

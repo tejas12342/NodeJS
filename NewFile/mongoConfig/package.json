@@ -1,0 +1,28 @@
+{
+  "name": "mongotutorial",
+  "version": "1.0.0",
+  "description": "MongoDb",
+  "main": "connect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongo"
+  ],
+  "author": "Tejas Patel",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.0.14"
+  },
+  "devDependencies": {
+    "mongodb": "^3.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/tejas12342/NodeJS.git"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/tejas12342/NodeJS/issues"
+  },
+  "homepage": "https://gitlab.com/tejas12342/NodeJS#README"
+}

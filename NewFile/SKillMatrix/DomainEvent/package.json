@@ -1,0 +1,15 @@
+{
+  "name": "domainevent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "_domain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "domain",
+    "node"
+  ],
+  "author": "Tejas Patel",
+  "license": "ISC"
+}

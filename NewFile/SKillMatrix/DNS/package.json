@@ -1,0 +1,18 @@
+{
+  "name": "dnspackage",
+  "version": "1.0.0",
+  "description": "DNS",
+  "main": "dns.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DNS",
+    "Node"
+  ],
+  "author": "Tejas Patel",
+  "license": "ISC",
+  "dependencies": {
+    "dns": "^0.2.2"
+  }
+}

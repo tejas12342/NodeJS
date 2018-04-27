@@ -1,0 +1,27 @@
+{
+  "name": "syncandasyncwithevent",
+  "version": "1.0.0",
+  "description": "Sync Async",
+  "main": "AsyncSync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/tejas12342/NodeJS.git"
+  },
+  "keywords": [
+    "Sync",
+    "Async"
+  ],
+  "author": "Tejas Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/tejas12342/NodeJS/issues"
+  },
+  "homepage": "https://gitlab.com/tejas12342/NodeJS#README",
+  "dependencies": {
+    "events": "^2.0.0",
+    "fs": "0.0.1-security"
+  }
+}
